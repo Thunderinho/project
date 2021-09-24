@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "project-45a78": {
+      "hosting": {
+        "project": [
+          "project-45a78"
+        ]
+      }
+    }
+  }
+}
